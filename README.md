@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @affandyletto
-- 👀 I’m a Full Stack Developer with 5 years of experience using various stack like : MERN, Python/Django and Flask.
+- 👀 I’m a Full Stack Developer with 5 years of experience using various stack like : React JS, Python/Django.
 - I'm currently learning blockchain development.
 
 <!---
